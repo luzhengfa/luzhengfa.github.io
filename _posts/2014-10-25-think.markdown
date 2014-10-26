@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Think What to Write"
+date:   2014-10-25 00:08:20
+categories: jekyll update
+---
+This is my first blog. I'am not sure what to write on it now!
+just buy a domain name and build it for fun.
+I fork the template from yansu's githun.
+thanks for him.
+I will change the template when I have time. 
+
+{% highlight ruby %}
+welcome here!
+{% endhighlight %}
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
