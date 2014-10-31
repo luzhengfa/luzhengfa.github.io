@@ -35,7 +35,8 @@ rss_url: /pages/atom.xml
 #  shortname: suyan-zh
 
 # 主题设置，自动激活某个标签
-active: 技术
+#active: 技术
+active: 学术
 
 # 首页除了最新文章外显示分类
 #cates: 
