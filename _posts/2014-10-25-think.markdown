@@ -2,7 +2,7 @@
 layout: post
 title:  "Think What to Write"
 date:   2014-10-25 00:08:20
-categories: jekyll update
+categories: jekyll
 ---
 This is my first blog. I'am not sure what to write on it now!
 just buy a domain name and build it for fun.
