@@ -101,6 +101,7 @@ categories: redmine subversion
 ## 浏览器中访问
 	http://127.0.0.1/svn
 
+> 参考[http://wiki.centos.org/zh/HowTos/Subversion](http://wiki.centos.org/zh/HowTos/Subversion)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
