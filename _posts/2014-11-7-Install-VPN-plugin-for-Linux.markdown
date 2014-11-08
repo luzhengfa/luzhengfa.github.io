@@ -13,6 +13,12 @@ description: Linux下VPN添加不了，需要安装插件的解决办法
 
 ## 解决办法
 
+### 启用epel resource
+	wget http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.noarch.rpm
+	rpm -ivh epel-release-6-8.noarch.rpm
+
+如果用wget 下载不下来或者其他原因，可以在其他机器下载再通过winscp传到centos上
+
 ###  Debian / Ubuntu Linux
 	$ sudo apt-get install network-manager-openvpn network-manager-pptp network-manager-vpnc
 
@@ -36,6 +42,7 @@ dns就是域名转换服务器，免费dns有很多替代品，比如google也�
 ## 参考资料
 [Gnome Network Manager VPN Tab Disabled ( Greyed out )](http://www.cyberciti.biz/faq/deiban-ubuntu-linux-networkmanager-pptp-cisco-vpn-tab-disabled/)
 [ubuntu VPN service failed to start 解决方案](http://blog.csdn.net/h3139597/article/details/7362578)
+[How to add NetworkManager plugin for VPN on CentOs 6](http://www.lampnode.com/linux/how-to-add-networkmanager-plugin-for-vpn-on-centos-6/)
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
