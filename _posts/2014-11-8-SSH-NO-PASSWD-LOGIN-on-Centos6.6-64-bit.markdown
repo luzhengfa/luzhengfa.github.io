@@ -47,9 +47,10 @@ description: centos6.6 下 SSH 免密码登录配置
 
 	cat id_rsa.pub >> .ssh/authorized_keys 
 
-### 修改authorized_keys的权限
+### 修改ssh目录,authorized_keys文件的权限
 在authorized_keys所在的目录下
-
+	
+	chmod 700 ~/.ssh
 	chmod 600 authorized_keys
 
 此时，在A机器上，只需输入ssh xxx.xxx.xxx.xxx(B机器的Ip) 即可免密码登录
