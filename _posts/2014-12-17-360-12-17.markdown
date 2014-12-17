@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "远处那是风景 近处这才是生活"
+date:   2014-12-17 11:33:02
+categories: 生活
+tags: word
+---
+
+> 摘自网络[笑多了不怀孕](http://s.sh.qihoo.com/api/html/3700369594.php?dtid=3700368901&did=3700617295)
+
+命运要你成长的时候，总会安排一些让你不顺心的人或事刺激你。
+
+事情开始的时候，不要想象着结局，因为有了这种预判，可能会左右我们的思想和行为，最后导致所有的付出如桃花落水，那些本来可以牵手的人，可以成就的事，终究铸成了许多遗憾，化作零星的记忆。既然开始了，就别驻足；当它结束时，莫去愧悔。只要走过、看过、经历过、感受过，成败只是人生的一种附属。
+
+![1](/images/2014/12/1.png)
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
