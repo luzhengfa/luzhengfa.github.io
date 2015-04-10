@@ -16,6 +16,9 @@ tags: MySQL
 ## 取消授权：
 	REVOKE ALL PRIVILEGES ON redmine.* From 'redmine'@'localhost' IDENTIFIED BY 'my_password';
 
+### 授权或者取消授权之后
+	flush privileges
+
 ## 查看用户的权限：
 	
 	show grants for username
