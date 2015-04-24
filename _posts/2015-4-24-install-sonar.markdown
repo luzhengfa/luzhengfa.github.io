@@ -54,8 +54,8 @@ tags: sonar
 	# Provides: sonar
 	# Required-Start: $network
 	# Required-Stop: $network
-	# Default-Start: 3 4 5
-	# Default-Stop: 0 1 2 6
+	# Default-Start: 2 3 4 5
+	# Default-Stop: 0 1 6
 	# Short-Description: SonarQube system (www.sonarsource.org)
 	# Description: SonarQube system (www.sonarsource.org)
 	### END INIT INFO
